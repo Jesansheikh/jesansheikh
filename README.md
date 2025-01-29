@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/jesansheikhbd" target="blank"><img src="https://img.shields.io/twitter/follow/jesansheikhbd?logo=twitter&style=for-the-badge" alt="jesansheikhbd" /></a> </p>
 
-- 🔭 I’m currently working on **Wastix**
+- 🔭 I’m currently working on **Mediox**
 
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **PHP, Javascript and WordPress**
 
-- 📫 How to reach me **contact@jesansheikh.com**
+- 📫 How to reach me **jesansheikhbd@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
