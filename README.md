@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jesansheikhbd" target="blank"><img src="https://img.shields.io/twitter/follow/jesansheikhbd?logo=twitter&style=for-the-badge" alt="jesansheikhbd" /></a> </p>
 
-- 🔭 I’m currently working on **Wordpress**
+- 🔭 I’m currently working on **WordPress Project**
 
 - 🌱 I’m currently learning **Laravel**
 
